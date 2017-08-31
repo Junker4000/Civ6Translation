@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="CHN_TRANSLATION" version="1">
+	<Properties>
+		<Name>文明6中文翻译模组</Name>
+		<Teaser>优化中文翻译</Teaser>
+		<Description>在官方翻译基础上进行优化</Description>
+		<Authors>SUSC</Authors>
+		<ShowInBrowser>AlwaysShow</ShowInBrowser>
+		<EnabledByDefault>1</EnabledByDefault>
+		<EnabledAtStartup>1</EnabledAtStartup>
+	</Properties>
+	<Components>
+		<LocalizedText id="NP_LocalizedText">
+            <Items>    
+                <File>Civ6_GameText_Cn.xml</File>
+            </Items>
+        </LocalizedText>
+	</Components>
+	<Files>
+		<File>Civ6_GameText_Cn.xml</File>
+	</Files>
+</Mod>
