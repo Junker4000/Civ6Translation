@@ -14,7 +14,7 @@
       <Text>阿尔罕布拉宫</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_AMPHITHEATER_NAME" Language="zh_Hans_CN">
-      <Text>古罗马剧场</Text>
+      <Text>露天剧场</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_ARENA_NAME" Language="zh_Hans_CN">
       <Text>竞技场</Text>
@@ -50,10 +50,10 @@
       <Text>奇琴伊察</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_COLOSSEUM_NAME" Language="zh_Hans_CN">
-      <Text>罗马斗兽场</Text>
+      <Text>大竞技场</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_COLOSSUS_NAME" Language="zh_Hans_CN">
-      <Text>巨像</Text>
+      <Text>太阳神巨像</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_CRISTO_REDENTOR_NAME" Language="zh_Hans_CN">
       <Text>救世基督像</Text>
@@ -62,7 +62,7 @@
       <Text>埃菲尔铁塔</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_ELECTRONICS_FACTORY_NAME" Language="zh_Hans_CN">
-      <Text>电子厂</Text>
+      <Text>电子工厂</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_ESTADIO_DO_MARACANA_NAME" Language="zh_Hans_CN">
       <Text>马拉卡纳体育场</Text>
@@ -146,7 +146,7 @@
       <Text>考古博物馆</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_ORACLE_NAME" Language="zh_Hans_CN">
-      <Text>神谕</Text>
+      <Text>神谕所</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_OXFORD_UNIVERSITY_NAME" Language="zh_Hans_CN">
       <Text>牛津大学</Text>
@@ -167,13 +167,13 @@
       <Text>发电厂</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_PYRAMIDS_NAME" Language="zh_Hans_CN">
-      <Text>金字塔</Text>
+      <Text>大金字塔</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_RESEARCH_LAB_NAME" Language="zh_Hans_CN">
       <Text>研究实验室</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_RUHR_VALLEY_NAME" Language="zh_Hans_CN">
-      <Text>鲁尔山谷</Text>
+      <Text>鲁尔区</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_SEAPORT_NAME" Language="zh_Hans_CN">
       <Text>海港</Text>
@@ -233,10 +233,10 @@
       <Text>佛寺</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_WATER_MILL_NAME" Language="zh_Hans_CN">
-      <Text>水磨</Text>
+      <Text>水磨坊</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_WORKSHOP_NAME" Language="zh_Hans_CN">
-      <Text>工作坊</Text>
+      <Text>工坊</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_ZOO_NAME" Language="zh_Hans_CN">
       <Text>动物园</Text>
@@ -245,16 +245,16 @@
       <Text>航空港</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_CAMPUS_NAME" Language="zh_Hans_CN">
-      <Text>学院</Text>
+      <Text>学院区</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_CITY_CENTER_NAME" Language="zh_Hans_CN">
-      <Text>市中心</Text>
+      <Text>城市中心</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_COMMERCIAL_HUB_NAME" Language="zh_Hans_CN">
       <Text>商业中心</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_ENCAMPMENT_NAME" Language="zh_Hans_CN">
-      <Text>军营</Text>
+      <Text>军事驻地</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_NAME" Language="zh_Hans_CN">
       <Text>娱乐中心</Text>
@@ -275,34 +275,34 @@
       <Text>社区</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_AQUEDUCT_NAME" Language="zh_Hans_CN">
-      <Text>水渠</Text>
+      <Text>引水渠</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_SPACEPORT_NAME" Language="zh_Hans_CN">
-      <Text>宇航中心</Text>
+      <Text>航天中心</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_ACROPOLIS_NAME" Language="zh_Hans_CN">
       <Text>卫城</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_BATH_NAME" Language="zh_Hans_CN">
-      <Text>浴场</Text>
+      <Text>公众浴场</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_HANSA_NAME" Language="zh_Hans_CN">
-      <Text>商业同业工会</Text>
+      <Text>汉莎商行</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_LAVRA_NAME" Language="zh_Hans_CN">
-      <Text>修道院 </Text>
+      <Text>修道共同体</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_MBANZA_NAME" Language="zh_Hans_CN">
       <Text>姆班赞</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_STREET_CARNIVAL_NAME" Language="zh_Hans_CN">
-      <Text>街头狂欢节</Text>
+      <Text>街头嘉年华</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_NAME" Language="zh_Hans_CN">
-      <Text>皇家海军船坞</Text>
+      <Text>皇家军港</Text>
     </Replace>
     <Replace Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME" Language="zh_Hans_CN">
-      <Text>蛮族哨站</Text>
+      <Text>蛮族营地</Text>
     </Replace>
     <Replace Tag="LOC_IMPROVEMENT_GOODY_HUT_NAME" Language="zh_Hans_CN">
       <Text>部落村庄</Text>
@@ -335,7 +335,7 @@
       <Text>油井</Text>
     </Replace>
     <Replace Tag="LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_NAME" Language="zh_Hans_CN">
-      <Text>海上石油钻机</Text>
+      <Text>海上油田</Text>
     </Replace>
     <Replace Tag="LOC_IMPROVEMENT_BEACH_RESORT_NAME" Language="zh_Hans_CN">
       <Text>海滨度假区</Text>
@@ -344,7 +344,7 @@
       <Text>堡垒</Text>
     </Replace>
     <Replace Tag="LOC_IMPROVEMENT_AIRSTRIP_NAME" Language="zh_Hans_CN">
-      <Text>飞机跑道</Text>
+      <Text>简易机场</Text>
     </Replace>
     <Replace Tag="LOC_IMPROVEMENT_CHATEAU_NAME" Language="zh_Hans_CN">
       <Text>城堡</Text>
@@ -362,16 +362,16 @@
       <Text>传教团</Text>
     </Replace>
     <Replace Tag="LOC_IMPROVEMENT_ROMAN_FORT_NAME" Language="zh_Hans_CN">
-      <Text>古罗马堡垒</Text>
+      <Text>罗马堡垒</Text>
     </Replace>
     <Replace Tag="LOC_IMPROVEMENT_SPHINX_NAME" Language="zh_Hans_CN">
       <Text>狮身人面像</Text>
     </Replace>
     <Replace Tag="LOC_IMPROVEMENT_STEPWELL_NAME" Language="zh_Hans_CN">
-      <Text>梯井</Text>
+      <Text>阶梯井</Text>
     </Replace>
     <Replace Tag="LOC_IMPROVEMENT_ZIGGURAT_NAME" Language="zh_Hans_CN">
-      <Text>金字形神塔</Text>
+      <Text>通灵塔</Text>
     </Replace>
     <Replace Tag="LOC_PROJECT_ENHANCE_DISTRICT_ENCAMPMENT_NAME" Language="zh_Hans_CN">
       <Text>军营训练</Text>
@@ -470,16 +470,16 @@
       <Text>常春藤行动</Text>
     </Replace>
     <Replace Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_NAME" Language="zh_Hans_CN">
-      <Text>建造核装置</Text>
+      <Text>建造核武器</Text>
     </Replace>
     <Replace Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_SHORT_NAME" Language="zh_Hans_CN">
-      <Text>建造核装置</Text>
+      <Text>建造核武器</Text>
     </Replace>
     <Replace Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_NAME" Language="zh_Hans_CN">
-      <Text>建造热核装置</Text>
+      <Text>建造热核武器</Text>
     </Replace>
     <Replace Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_SHORT_NAME" Language="zh_Hans_CN">
-      <Text>建造热核装置</Text>
+      <Text>建造热核武器</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_TENOCHTITLAN" Language="zh_Hans_CN">
       <Text>特诺奇蒂特兰</Text>
@@ -710,7 +710,7 @@
       <Text>巴格达</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_ALEPPO" Language="zh_Hans_CN">
-      <Text>阿勒波</Text>
+      <Text>阿勒颇</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_SANAA" Language="zh_Hans_CN">
       <Text>萨那</Text>
@@ -2408,10 +2408,10 @@
       <Text>里斯本</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_MOHENJO_DARO_1" Language="zh_Hans_CN">
-      <Text>摩亨朱-达罗</Text>
+      <Text>摩亨佐-达罗</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_MOHENJO_DARO" Language="zh_Hans_CN">
-      <Text>摩亨朱-达罗</Text>
+      <Text>摩亨佐-达罗</Text>
     </Replace>
     <Replace Tag="LOC_CITY_NAME_PRESLAV_1" Language="zh_Hans_CN">
       <Text>普雷斯拉夫</Text>
@@ -2471,19 +2471,19 @@
       <Text>法典</Text>
     </Replace>
     <Replace Tag="LOC_CIVIC_CRAFTSMANSHIP_NAME" Language="zh_Hans_CN">
-      <Text>技艺</Text>
+      <Text>工艺</Text>
     </Replace>
     <Replace Tag="LOC_CIVIC_FOREIGN_TRADE_NAME" Language="zh_Hans_CN">
-      <Text>对外贸易</Text>
+      <Text>外贸</Text>
     </Replace>
     <Replace Tag="LOC_CIVIC_MILITARY_TRADITION_NAME" Language="zh_Hans_CN">
       <Text>军事传统</Text>
     </Replace>
     <Replace Tag="LOC_CIVIC_STATE_WORKFORCE_NAME" Language="zh_Hans_CN">
-      <Text>国家劳动力</Text>
+      <Text>徭役</Text>
     </Replace>
     <Replace Tag="LOC_CIVIC_EARLY_EMPIRE_NAME" Language="zh_Hans_CN">
-      <Text>帝国初期</Text>
+      <Text>早期帝国</Text>
     </Replace>
     <Replace Tag="LOC_CIVIC_MYSTICISM_NAME" Language="zh_Hans_CN">
       <Text>神秘主义</Text>
@@ -2528,7 +2528,7 @@
       <Text>公会</Text>
     </Replace>
     <Replace Tag="LOC_CIVIC_DIVINE_RIGHT_NAME" Language="zh_Hans_CN">
-      <Text>王权神授</Text>
+      <Text>君权神授</Text>
     </Replace>
     <Replace Tag="LOC_CIVIC_EXPLORATION_NAME" Language="zh_Hans_CN">
       <Text>探索</Text>
@@ -2540,7 +2540,7 @@
       <Text>外交部门</Text>
     </Replace>
     <Replace Tag="LOC_CIVIC_REFORMED_CHURCH_NAME" Language="zh_Hans_CN">
-      <Text>归正会</Text>
+      <Text>归正教会</Text>
     </Replace>
     <Replace Tag="LOC_CIVIC_MERCANTILISM_NAME" Language="zh_Hans_CN">
       <Text>重商主义</Text>
@@ -2642,7 +2642,7 @@
       <Text>神权政体</Text>
     </Replace>
     <Replace Tag="LOC_GOVERNMENT_MERCHANT_REPUBLIC_NAME" Language="zh_Hans_CN">
-      <Text>商人共和国</Text>
+      <Text>商业共和</Text>
     </Replace>
     <Replace Tag="LOC_GOVERNMENT_FASCISM_NAME" Language="zh_Hans_CN">
       <Text>法西斯主义</Text>
@@ -2975,7 +2975,7 @@
       <Text>阿拉伯帝国</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION" Language="zh_Hans_CN">
-      <Text>野蛮人</Text>
+      <Text>蛮族</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION" Language="zh_Hans_CN">
       <Text>巴西帝国</Text>
@@ -3068,7 +3068,7 @@
       <Text>里斯本城邦</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_MOHENJO_DARO_DESCRIPTION" Language="zh_Hans_CN">
-      <Text>摩亨朱-达罗城邦</Text>
+      <Text>摩亨佐-达罗城邦</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_PRESLAV_DESCRIPTION" Language="zh_Hans_CN">
       <Text>普雷斯拉夫城邦</Text>
@@ -3104,7 +3104,7 @@
       <Text>阿拉伯人</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_BARBARIAN_ADJECTIVE" Language="zh_Hans_CN">
-      <Text>野蛮人</Text>
+      <Text>蛮族</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_BRAZIL_ADJECTIVE" Language="zh_Hans_CN">
       <Text>巴西人</Text>
@@ -3197,7 +3197,7 @@
       <Text>里斯本</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_MOHENJO_DARO_ADJECTIVE" Language="zh_Hans_CN">
-      <Text>摩亨朱-达罗</Text>
+      <Text>摩亨佐-达罗</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_PRESLAV_ADJECTIVE" Language="zh_Hans_CN">
       <Text>普雷斯拉夫</Text>
@@ -3233,7 +3233,7 @@
       <Text>阿拉伯</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_BARBARIAN_NAME" Language="zh_Hans_CN">
-      <Text>野蛮人</Text>
+      <Text>蛮族</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_BRAZIL_NAME" Language="zh_Hans_CN">
       <Text>巴西</Text>
@@ -3326,7 +3326,7 @@
       <Text>里斯本</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_MOHENJO_DARO_NAME" Language="zh_Hans_CN">
-      <Text>摩亨朱-达罗</Text>
+      <Text>摩亨佐-达罗</Text>
     </Replace>
     <Replace Tag="LOC_CIVILIZATION_PRESLAV_NAME" Language="zh_Hans_CN">
       <Text>普雷斯拉夫</Text>
@@ -3761,16 +3761,16 @@
       <Text>如今，里斯本的居民达50万之多，它仍然是欧洲领先的经济贸易中心之一。里斯本同时也是广受欢迎的旅游目的地，其特色是历史建筑、精美的博物馆及文化节日。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MOHENJO_DARO_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
-      <Text>大约于公元前2500年建成的摩亨朱-达罗是哈拉帕文明最大的集聚地之一，也是北印度及巴基斯坦繁荣文化的中心。当埃及人为他们的法老修建金字塔时，当米诺斯人用跳过牛背作为体育运动时，大约4万名摩亨朱-达罗人已经能够使用砂浆砖打造令人惊奇的建筑物了：公共浴室、带有公共水井的中央市场、宽阔的房屋、大型谷仓（带有可以风干谷物的风道）、用于集会的“列柱厅”以及“学院大厅”（里面的78个房间被认为是牧师的居所）。</Text>
+      <Text>大约于公元前2500年建成的摩亨佐-达罗是哈拉帕文明最大的集聚地之一，也是北印度及巴基斯坦繁荣文化的中心。当埃及人为他们的法老修建金字塔时，当米诺斯人用跳过牛背作为体育运动时，大约4万名摩亨佐-达罗人已经能够使用砂浆砖打造令人惊奇的建筑物了：公共浴室、带有公共水井的中央市场、宽阔的房屋、大型谷仓（带有可以风干谷物的风道）、用于集会的“列柱厅”以及“学院大厅”（里面的78个房间被认为是牧师的居所）。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MOHENJO_DARO_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
-      <Text>考古学家和小偷在挖掘摩亨朱－达罗时发现了各种令人叹为观止的艺术品及手工艺品：坐着或站着的人物雕塑、铜制工具、官方印章、黄金、碧玉珠宝、 天平秤、孩童的玩具、商用砝码、精雕细琢的家具。其中最引人注意的是青铜色的“跳舞女孩”，帕舒帕蒂印章以及由7缕线编织而成的项链，这些东西距今约4500年。这座城市曾经肯定十分适合居住。</Text>
+      <Text>考古学家和小偷在挖掘摩亨佐－达罗时发现了各种令人叹为观止的艺术品及手工艺品：坐着或站着的人物雕塑、铜制工具、官方印章、黄金、碧玉珠宝、 天平秤、孩童的玩具、商用砝码、精雕细琢的家具。其中最引人注意的是青铜色的“跳舞女孩”，帕舒帕蒂印章以及由7缕线编织而成的项链，这些东西距今约4500年。这座城市曾经肯定十分适合居住。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MOHENJO_DARO_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
-      <Text>相对比较和平。这座城市没有外墙，但是在东侧有几座守卫塔，南侧有些防御工事。看起来没有任何人会扰乱这份宁静，但愤怒的天神却用自然的形式将其破坏。摩亨朱-达罗至少被破坏过7次，然后在原有的基础上直接修建新城。印度河洪水似乎会定期将这里所有的文化淹没。但每一次，这座城市都会重新崛起，再次成为世界上最精致的城市。</Text>
+      <Text>相对比较和平。这座城市没有外墙，但是在东侧有几座守卫塔，南侧有些防御工事。看起来没有任何人会扰乱这份宁静，但愤怒的天神却用自然的形式将其破坏。摩亨佐-达罗至少被破坏过7次，然后在原有的基础上直接修建新城。印度河洪水似乎会定期将这里所有的文化淹没。但每一次，这座城市都会重新崛起，再次成为世界上最精致的城市。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MOHENJO_DARO_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
-      <Text>但所有美好事物最终都会走向灭亡。哈拉帕文明突然在公元前1900年左右急速衰退，虽然关于这一现象，历史学家给出很多推测，但仍然无法解释清楚，慢慢地，摩亨朱-达罗被遗弃了。直到1920年，一位前来参观的印度历史学家拉哈勒达什·巴纳吉在此处发现了古老的火燧石刮器，这座古城才被重新发现。</Text>
+      <Text>但所有美好事物最终都会走向灭亡。哈拉帕文明突然在公元前1900年左右急速衰退，虽然关于这一现象，历史学家给出很多推测，但仍然无法解释清楚，慢慢地，摩亨佐-达罗被遗弃了。直到1920年，一位前来参观的印度历史学家拉哈勒达什·巴纳吉在此处发现了古老的火燧石刮器，这座古城才被重新发现。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PRESLAV_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
       <Text>直到9世纪初修筑完成，普雷斯拉夫依旧是只有斯拉夫人生活的冷清城市。但鲍里斯一世加冕后，都城设在普利斯卡附近，这是重要的战略中心，也是保加利亚首都驻军指挥官所在地，该指挥官实际上是王国军队的首领。随着保加利亚人在864年转为信奉基督教并修建了大量教堂，这座城市也变成了宗教中心。</Text>
@@ -5369,10 +5369,10 @@
       <Text>蛮族</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_1" Language="zh_Hans_CN">
-      <Text>蛮族来自“哨站所”，哨站所会随机出现在任意一个不能被单位看见的单元格上。蛮族单位归它自己的起源哨站所所有。有3种蛮族哨站所：海军、骑兵和近战。驱散一个蛮族哨站所能让文明获得一个 [ICON_Gold] 金币奖励——此外，由于阻止了更多蛮族单位的产生，还会获得其他好处。</Text>
+      <Text>蛮族来自“营地”，蛮族营地会随机出现在任意一个不能被单位看见的单元格上。蛮族单位归它自己的起源营地所有。有3种蛮族营地：海军、骑兵和近战。驱散一个蛮族营地能让文明获得一个 [ICON_Gold] 金币奖励——此外，由于阻止了更多蛮族单位的产生，还会获得其他好处。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_2" Language="zh_Hans_CN">
-      <Text>海岸线上的海军蛮族哨站所可创建海军单位（与科技最发达的文明一致）。这些单位会威胁您的海岸线、毁坏海军改良设施、袭击在海岸线附近迷路的倒霉陆地单位。维持一支海军以避免自己背部受敌至关重要，但阻止攻击的最好方式是摧毁附近的沿海哨站所。</Text>
+      <Text>海岸线上的海军蛮族营地所可创建海军单位（与科技最发达的文明一致）。这些单位会威胁您的海岸线、毁坏海军改良设施、袭击在海岸线附近迷路的倒霉陆地单位。维持一支海军以避免自己背部受敌至关重要，但阻止攻击的最好方式是摧毁附近的沿海哨站所。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_3" Language="zh_Hans_CN">
       <Text>出现在内陆和马匹资源附近的骑兵哨站所会产生骑乘单位。</Text>
@@ -5642,7 +5642,7 @@
       <Text>获得金币</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_2_CHAPTER_CONTENT_PARA_1" Language="zh_Hans_CN">
-      <Text>有多种方式获得 [ICON_Gold] 金币。您能通过改良城市周边的单元格获得 [ICON_Gold] 金币，但也有其他办法可供选择：地形和改良设施、贸易站、区域和建筑、 [ICON_TradeRoute] 贸易路线、蛮族哨站、部落村庄、城邦、掠夺敌方改良设施、占领城市、与其他文明进行外交。</Text>
+      <Text>有多种方式获得 [ICON_Gold] 金币。您能通过改良城市周边的单元格获得 [ICON_Gold] 金币，但也有其他办法可供选择：地形和改良设施、贸易站、区域和建筑、 [ICON_TradeRoute] 贸易路线、蛮族营地、部落村庄、城邦、掠夺敌方改良设施、占领城市、与其他文明进行外交。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_3_CHAPTER_CONTENT_TITLE" Language="zh_Hans_CN">
       <Text>花费金币</Text>
@@ -6377,7 +6377,7 @@
       <Text>在古罗马，温泉浴场是大型的沐浴综合设施；一些罗马别墅和宫殿里会有一些私人的供应热水的浴室，这些浴场对外开放，为那些忙碌的，肮脏的公民提供一个放松和清洁身体的地方。尽管罗马城市之间的布局各不相同，但每个城市都有一个提供休闲和锻炼的地方，比如高温浴室（热水浴）、温水浴间（温水浴）、冷水浴室（冷水浴）、更衣室（试衣间）等等。设施配置较好的浴室通常还会有一个汗蒸室（蒸气浴）和一个发汗浴室（干蒸汽浴）。女性浴室通常都很精致，墙上装饰着壁画和马赛克。在圆形大剧场看了一天的杀戮后，没有什么能比去温泉浴场泡泡澡更能让人感觉舒适的了。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_HANSA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
-      <Text>根据古法语里的“商业公司”，商业同业工会是商人和操盘手在小城里组成的自愿联盟，目的是为了保护商业活动和交通设施。13世纪，在波罗的海和北海的商业港口，制造业和贸易行会变得举足轻重且具有很大影响力，他们将总部设置在商业同业工会里。最大的商业同业工会区不仅容纳了相互竞争公会之间的办公室，而且还有能产生利润的各个场所，如库房、市场、银行等。第一个这样的场所建于约公元1159年的吕贝克，目的是为了促进西欧和俄罗斯北部资源丰富地区的贸易往来。</Text>
+      <Text>根据古法语里的“商业公司”，汉莎商行是商人和操盘手在小城里组成的自愿联盟，目的是为了保护商业活动和交通设施。13世纪，在波罗的海和北海的商业港口，制造业和贸易行会变得举足轻重且具有很大影响力，他们将总部设置在汉莎商行里。最大的汉莎商行区不仅容纳了相互竞争公会之间的办公室，而且还有能产生利润的各个场所，如库房、市场、银行等。第一个这样的场所建于约公元1159年的吕贝克，目的是为了促进西欧和俄罗斯北部资源丰富地区的贸易往来。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_LAVRA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
       <Text>在东正教传统里，修道院（比如希腊的阿索斯山或罗马尼亚的宁姆）是隐士居住的与世隔绝之地，带有一个中央教堂和教区长的住宅。最出名的可能是位于圣彼得堡的亚历山大·涅夫斯基修道院（以一位俄罗斯勇士的名字命名），那里埋葬了许多杰出的俄罗斯人——除了涅夫斯基，还有欧拉、苏瓦洛夫、穆索尔斯基、柴可夫斯基、杜斯妥也夫斯基，等等。据信修道院起源于四世纪，第一座修道院在埃及沙漠尼帝亚附近，是大约600名隐士的居住地。在严格的隐士传统中，这些隐士僧侣过着隐居生活，每日的主要任务是祷告，通常伴随着沉默祈祷、禁欲、冥想和禁食。一些进一步的论证证明了其中一些信徒希望以此获得救赎。</Text>
@@ -8885,7 +8885,7 @@
       <Text>作为历史记录的第一个文明，苏美尔的光芒从一开始就显现了出来。从第一回合开始，他们就能建造战车和金字形神塔，吉尔伽美什的特殊能力(基于联合战斗)也能很早出现，可以解锁市政“对外贸易”。吉尔伽美什能在早期阶段建造战车，并外出攻击蛮族营地，所以他可以利用他的史诗任务能力。他还将在附近的河流边缘分散建造金字形神塔，来推动早期的 [ICON_Science] 科技值和 [ICON_Culture] 文化值增长。其他文明试图与吉尔伽美什结盟，以便在进行联合作战时，获得恩奇都奇遇加成。通过快速启动和一些成功的联合战争，苏美尔应该能够进入一个能保持胜利的主导地位。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORGO_TITLE" Language="zh_Hans_CN">
-      <Text>戈尔戈</Text>
+      <Text>歌果</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORGO_SUBTITLE" Language="zh_Hans_CN">
       <Text>斯巴达女王</Text>
@@ -8894,31 +8894,31 @@
       <Text>防守森严的城市用男人而不是用砖头做城墙。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORGO_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
-      <Text>作为斯巴达国王的女儿、斯巴达国王的妻子和斯巴达国王的母亲，也许关于戈尔戈最引人注目的是在女性人物几乎完全缺失的古希腊历史中，我们对她了解甚多。甚至希罗多德、色诺芬和修昔底德在著作中都很少提到女王。毫不奇怪，大多数的古希腊历史学家是雅典人，雅典人认为女性不应该出现在公共场合——更别说让她们讲话了。正如伯里克利在一次演讲中说到：“一个女人最大的荣耀是尽可能少的被谈论，不管是赞美还是批评。”在这种观点下，戈尔戈的一切都有悖常理。</Text>
+      <Text>作为斯巴达国王的女儿、斯巴达国王的妻子和斯巴达国王的母亲，也许关于歌果最引人注目的是在女性人物几乎完全缺失的古希腊历史中，我们对她了解甚多。甚至希罗多德、色诺芬和修昔底德在著作中都很少提到女王。毫不奇怪，大多数的古希腊历史学家是雅典人，雅典人认为女性不应该出现在公共场合——更别说让她们讲话了。正如伯里克利在一次演讲中说到：“一个女人最大的荣耀是尽可能少的被谈论，不管是赞美还是批评。”在这种观点下，歌果的一切都有悖常理。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORGO_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
-      <Text>戈尔戈生于公元前513年，是斯巴达阿几亚德国王克莱奥梅尼唯一的孩子。她父亲进行铁腕统治，并常常奉行不道德的外交政策，如征服安格斯、干预雅典事务，帮助伪造伯罗奔尼撒同盟。戈尔戈从她亲爱的爸爸那儿学到了很多。没有关于她童年时代的信息；她可能比较普通吧（或者她的“美貌”会写入“历史”）但她很聪明，当米利都的阿里斯塔哥拉斯为反抗波斯的伊奥尼亚起义寻求帮助时，她劝父亲不要相信他。毫无疑问，她如其他拥有高贵血统的斯巴达女孩一样成长和上学：学习识字和算术、唱歌跳舞、骑无鞍马和驾驶战车、每天被鼓励进行剧烈运动（包括裸体摔跤、体操）。</Text>
+      <Text>歌果生于公元前513年，是斯巴达阿几亚德国王克莱奥梅尼唯一的孩子。她父亲进行铁腕统治，并常常奉行不道德的外交政策，如征服安格斯、干预雅典事务，帮助伪造伯罗奔尼撒同盟。歌果从她亲爱的爸爸那儿学到了很多。没有关于她童年时代的信息；她可能比较普通吧（或者她的“美貌”会写入“历史”）但她很聪明，当米利都的阿里斯塔哥拉斯为反抗波斯的伊奥尼亚起义寻求帮助时，她劝父亲不要相信他。毫无疑问，她如其他拥有高贵血统的斯巴达女孩一样成长和上学：学习识字和算术、唱歌跳舞、骑无鞍马和驾驶战车、每天被鼓励进行剧烈运动（包括裸体摔跤、体操）。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORGO_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
-      <Text>不管她其他方面如何，但戈尔戈是典型的斯巴达女人，自信又率真。既不虚荣也不追求物质利益，如果希罗多德的故事可信（故事可能经过了改进，因为比起事实，他更喜欢写传闻），可以看出她对于矫揉造作表示出斯巴达式的鄙视，她曾以为来拜访宫廷的人没有手是因为有奴隶给他穿衣服。另外一个故事说，成年的戈尔戈指控一位衣冠楚楚的客人在真正的斯巴达妇女中不能“扮演好一个女性角色”。</Text>
+      <Text>不管她其他方面如何，但歌果是典型的斯巴达女人，自信又率真。既不虚荣也不追求物质利益，如果希罗多德的故事可信（故事可能经过了改进，因为比起事实，他更喜欢写传闻），可以看出她对于矫揉造作表示出斯巴达式的鄙视，她曾以为来拜访宫廷的人没有手是因为有奴隶给他穿衣服。另外一个故事说，成年的歌果指控一位衣冠楚楚的客人在真正的斯巴达妇女中不能“扮演好一个女性角色”。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORGO_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
-      <Text>公元前490年，戈尔戈的父亲去世了，她嫁给了列奥尼达斯一世，这是她的一个叔叔。独特的斯巴达同时有了两个国王。虽然严格意义上来说，两个国王拥有平等权力，但列奥尼达斯接替克莱奥梅尼登上斯巴达王朝的王座后，戈尔戈设法在影响和决策方面使她丈夫的权利高过另一个国王列奥提西达斯。作为一个军国主义城邦的女王，她的“聪明”多次让斯巴达获利。公元前480年，在波斯入侵希腊之前，流亡的戴玛拉托斯给斯巴达发出了警告，让他们警惕薛西斯要采取的计划；为了稳妥起见，他把消息刻在一块木头上并涂了蜡。当消息送达时，国王和五个监督官（由公民选举产生的国王顾问）都不知道这个空白板子到底要表达什么，直到戈尔戈告诉列奥尼达斯把木头上的蜡去掉。历史上还有好几个例子都提到她在会议上给国王或立法机构出谋划策。</Text>
+      <Text>公元前490年，歌果的父亲去世了，她嫁给了列奥尼达斯一世，这是她的一个叔叔。独特的斯巴达同时有了两个国王。虽然严格意义上来说，两个国王拥有平等权力，但列奥尼达斯接替克莱奥梅尼登上斯巴达王朝的王座后，歌果设法在影响和决策方面使她丈夫的权利高过另一个国王列奥提西达斯。作为一个军国主义城邦的女王，她的“聪明”多次让斯巴达获利。公元前480年，在波斯入侵希腊之前，流亡的戴玛拉托斯给斯巴达发出了警告，让他们警惕薛西斯要采取的计划；为了稳妥起见，他把消息刻在一块木头上并涂了蜡。当消息送达时，国王和五个监督官（由公民选举产生的国王顾问）都不知道这个空白板子到底要表达什么，直到歌果告诉列奥尼达斯把木头上的蜡去掉。历史上还有好几个例子都提到她在会议上给国王或立法机构出谋划策。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORGO_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
-      <Text>高傲的女王是否为列奥尼达斯生了一个以上的孩子——儿子普列司塔尔科期一世——我们无从得知，但考虑到列奥尼达斯率军前行并死在塞莫皮莱这段时间戈尔戈的日程安排，可以很清楚的看出她没有再生孩子。其他的斯巴达王后被指控通奸（特别是海伦），但戈尔戈再三拒绝了别人的求爱，保住了贞洁。后来，她因为说只有斯巴达女人才能生出真正的男人这句话而出名…所以可能没有其他人像她这样受人尊敬。后来的历史学家普鲁塔克写到，在斯巴达300勇士挥师北上时，列奥尼达斯意识到此次必死无疑，于是戈尔戈问丈夫他想要她做什么。列奥尼达斯告诉她“嫁个好男人…生一些好孩子。”没有记录显示她听从了他的建议。</Text>
+      <Text>高傲的女王是否为列奥尼达斯生了一个以上的孩子——儿子普列司塔尔科期一世——我们无从得知，但考虑到列奥尼达斯率军前行并死在塞莫皮莱这段时间歌果的日程安排，可以很清楚的看出她没有再生孩子。其他的斯巴达王后被指控通奸（特别是海伦），但歌果再三拒绝了别人的求爱，保住了贞洁。后来，她因为说只有斯巴达女人才能生出真正的男人这句话而出名…所以可能没有其他人像她这样受人尊敬。后来的历史学家普鲁塔克写到，在斯巴达300勇士挥师北上时，列奥尼达斯意识到此次必死无疑，于是歌果问丈夫他想要她做什么。列奥尼达斯告诉她“嫁个好男人…生一些好孩子。”没有记录显示她听从了他的建议。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORGO_CHAPTER_HISTORY_PARA_6" Language="zh_Hans_CN">
-      <Text>波斯人入侵前后，戈尔戈可能走遍了希腊来帮助列奥尼达斯召集希腊城邦建立共同防御战线。事实上列奥尼达斯斯统治时期，斯巴达的主要任务是结成联盟，特别是与重要的海上强国——雅典——结盟。戈尔戈出现在雅典一定引起了轰动；毕竟，雅典文化认为一个女人无论结婚无否，出现在公共场合都是可耻的…而戈尔戈驾驶着战车穿过街道。更让雅典人觉得她可耻的是，骑马时她穿着传统的斯巴达女装——短而薄的裙子，手臂和腿裸露在外的束腰外衣，而雅典妇女穿的厚重衣服把除开脸、手和脚以外的任何部位都包裹的严严实实。斯巴达妇女在当时享有的地位和尊重在希腊其他地方是没有的，毫无疑问，列奥尼达斯和戈尔戈在谈判中充分利用了这一点，用自身的魅力带来了巨大冲击。</Text>
+      <Text>波斯人入侵前后，歌果可能走遍了希腊来帮助列奥尼达斯召集希腊城邦建立共同防御战线。事实上列奥尼达斯斯统治时期，斯巴达的主要任务是结成联盟，特别是与重要的海上强国——雅典——结盟。歌果出现在雅典一定引起了轰动；毕竟，雅典文化认为一个女人无论结婚无否，出现在公共场合都是可耻的…而歌果驾驶着战车穿过街道。更让雅典人觉得她可耻的是，骑马时她穿着传统的斯巴达女装——短而薄的裙子，手臂和腿裸露在外的束腰外衣，而雅典妇女穿的厚重衣服把除开脸、手和脚以外的任何部位都包裹的严严实实。斯巴达妇女在当时享有的地位和尊重在希腊其他地方是没有的，毫无疑问，列奥尼达斯和歌果在谈判中充分利用了这一点，用自身的魅力带来了巨大冲击。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORGO_CHAPTER_HISTORY_PARA_7" Language="zh_Hans_CN">
-      <Text>塞莫皮莱战役斩杀300多人，之后戈尔戈的儿子普列司塔尔科期成为国王，他于公元前478年继位，之前是由他的叔叔和表兄摄政。虽然戈尔戈很可能继续在波斯战争中给他和斯巴达监察官提供建议，但丈夫死后，关于她的一切，希腊历史学家再无记载。也没有关于她死亡的记录。</Text>
+      <Text>塞莫皮莱战役斩杀300多人，之后歌果的儿子普列司塔尔科期成为国王，他于公元前478年继位，之前是由他的叔叔和表兄摄政。虽然歌果很可能继续在波斯战争中给他和斯巴达监察官提供建议，但丈夫死后，关于她的一切，希腊历史学家再无记载。也没有关于她死亡的记录。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORGO_CHAPTER_CAPSULE_BODY" Language="zh_Hans_CN">
-      <Text>还有谁能比希腊人更精通生活世俗的一面呢？作为一名斯巴达人，戈尔戈能运用市政系统的权利和灵活性来为各种胜利做准备。</Text>
+      <Text>还有谁能比希腊人更精通生活世俗的一面呢？作为一名斯巴达人，歌果能运用市政系统的权利和灵活性来为各种胜利做准备。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORGO_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
-      <Text>希腊在早期游戏里 [ICON_Culture] 文化输出领先。戈尔戈的方式是通过战争和杀戮获得 [ICON_Culture] 文化值，或通过将卫城或奇观修建在市中心来获得在游戏早期的 [ICON_Culture] 文化值产出领先。再加上一个免费的通配符政策槽位，希腊在游戏任何阶段都拥有强力的政体。通过研究对推动他们胜利战略的市政，他们将会有一些列有效政策。政府系统能用来灵活支持任何胜利方式，但对希腊而言，最易获得文化胜利。</Text>
+      <Text>希腊在早期游戏里 [ICON_Culture] 文化输出领先。歌果的方式是通过战争和杀戮获得 [ICON_Culture] 文化值，或通过将卫城或奇观修建在市中心来获得在游戏早期的 [ICON_Culture] 文化值产出领先。再加上一个免费的通配符政策槽位，希腊在游戏任何阶段都拥有强力的政体。通过研究对推动他们胜利战略的市政，他们将会有一些列有效政策。政府系统能用来灵活支持任何胜利方式，但对希腊而言，最易获得文化胜利。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HARDRADA_TITLE" Language="zh_Hans_CN">
       <Text>哈拉尔德·哈德拉达</Text>
@@ -9509,7 +9509,7 @@
       <Text>海军护航舰至少自12世纪起就已存在，当时军舰的各个级别发展成为各自不同的种类，在任务中扮演不同的协同作战角色。在殖民时代，西班牙人和葡萄牙人派出军事护卫与他们缓慢的宝船一起抵御海盗和私掠船。拿破仑战争中，英国试图拦截法国粮食船队，护航队战术在此起到了显著作用；护航队席卷了多次战斗——韦桑岛战役、多格滩战役和六月一日海战 。一战期间，护航制由英国海军部制定，用来对付德国潜艇的威胁，随后，该策略继续用于大西洋更加致命的战斗之中。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CREEPING_ATTACK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
-      <Text>反潜战早期，在护航队保驾护航的最后阶段，给潜伏的U型潜水艇尾部安装深水炸弹时，潜艇探索器（ASDIC）导致了通讯丧失…由此给了德国潜艇在最后一分钟改变深度或方向的机会。为了解决这个问题，皇家海军的第36护航大队制定了“匍匐攻击法”。这种方法使用两艘船，一艘静止用于保持通讯，另一艘则用于接近目标，后者从一开始信号发出时，便会释放深水炸弹。虽然该战术需要耐心，并会花费额外的时间和船只，但最终证明它确实有效。随着前抛式刺猬和鱿鱼深水炸弹，以及更复杂的潜艇探索器的出现，该战术遭到淘汰——但英国人却继续使用它直至战争结束。</Text>
+      <Text>反潜战早期，在护航队保驾护航的最后阶段，给潜伏的U艇尾部安装深水炸弹时，潜艇探索器（ASDIC）导致了通讯丧失…由此给了德国潜艇在最后一分钟改变深度或方向的机会。为了解决这个问题，皇家海军的第36护航大队制定了“匍匐攻击法”。这种方法使用两艘船，一艘静止用于保持通讯，另一艘则用于接近目标，后者从一开始信号发出时，便会释放深水炸弹。虽然该战术需要耐心，并会花费额外的时间和船只，但最终证明它确实有效。随着前抛式刺猬和鱿鱼深水炸弹，以及更复杂的潜艇探索器的出现，该战术遭到淘汰——但英国人却继续使用它直至战争结束。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_DEBATER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
       <Text>在中世纪和文艺复兴时期的多数时间，宗教“争论”（正式辩论）提供了在神学中创建真理的公认方法。依据柏拉图哲学传统，这些争论根据辩论者对“公认”书面作品的引用和发言人惯用的修辞技巧做出判断。天主教徒和犹太教神学家之间的争论（例如1240年在巴黎的争论）很有礼貌；新教徒和天主教徒之间（例如1541年在雷根斯堡的争论）则少了几分和气。同时，东方的莫卧儿皇帝阿克巴主持了穆斯林、印度教教徒、耆那教徒、拜火教教徒、天主教教徒的耶稣会圣人之间的争论，以显示他对宗教的宽容。</Text>
@@ -9665,7 +9665,7 @@
       <Text>气球和飞机执行军事行动时，侦查是它们的首要任务，在广阔空间和开阔海洋中，这项任务尤其重要。对偷偷摸摸陷入射程内的敌舰而言，侦查会让其局促不安。海军侦察飞机在一战中首次出现，通常是从水上飞机母舰，或某些炮塔上有短射程飞行甲板的战舰中发射出的单座飞行器(不幸的是，这些飞行器无法着陆，因此飞行员不得不把他们的飞机开进船只旁边的水域里，并等待获救)。战争期间，人们开始寻找更好的解决方案，因此产生了石弩和制动装置，同时还出现了真正的航母，每种都因拥有远程侦察飞机而备受赞誉。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SILENT_RUNNING_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
-      <Text>一旦水面舰艇——尤其是驱逐舰、轻巡洋舰和护卫舰——获得声纳，对潜艇组而言，事情会变得复杂起来。声纳在一战后期获得发展，由于出现的太晚，因此无法用来抗拒U型潜水艇的“蹂躏”。但由于人们非同寻常的先见之明，到了二战时，很多更小的护卫舰已开始使用无源声纳，并根据潜伏潜艇的声音来辨别其深度，随后，他们能释放深水炸弹将其消灭。还击所有潜艇响声的唯一方法是进行“无声运行”，可以消除所有不必要的声音。发动机的声音没了，通风设备的声音达到最低限度，全体船员寂静无声…通常默默祈祷上面的敌人在对他们毫无觉察的情况下经过他们。</Text>
+      <Text>一旦水面舰艇——尤其是驱逐舰、轻巡洋舰和护卫舰——获得声纳，对潜艇组而言，事情会变得复杂起来。声纳在一战后期获得发展，由于出现的太晚，因此无法用来抗拒U艇的“蹂躏”。但由于人们非同寻常的先见之明，到了二战时，很多更小的护卫舰已开始使用无源声纳，并根据潜伏潜艇的声音来辨别其深度，随后，他们能释放深水炸弹将其消灭。还击所有潜艇响声的唯一方法是进行“无声运行”，可以消除所有不必要的声音。发动机的声音没了，通风设备的声音达到最低限度，全体船员寂静无声…通常默默祈祷上面的敌人在对他们毫无觉察的情况下经过他们。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AMBUSH_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
       <Text>人类学家和考古学家认为，史前人类使用埋伏来对付危险的捕获物，后来渐渐开始借此来对付同类。所以说，隐藏自己、突袭敌人、几次攻击后就逃跑，这一直以来都是人类战争中惯用的伎俩。埋伏的目的是重伤强敌，通过突袭来达成原本不可能达到的伤亡，之后就躲入灌木丛中，而不是挺身而战。野蛮人几千年来一直都青睐这种战术。</Text>
@@ -9722,7 +9722,7 @@
       <Text>世界上首个被记者称为“超级航空母舰”的船只是英国1938年完工的皇家方舟号，该航母长685英尺，可搭载72架飞机（但在1941年皇家方舟号被鱼雷击沉时，这一点反而成为累赘）。随后，1943年，美国人把拥有4.5万吨排水量的中途岛级航空母舰称为“超级航空母舰”；美国共完工3艘该类航空母舰。但是真正意义上的超级航空母舰是冷战期间美苏两国建造的核动力航母。美国的尼米兹级航空母舰每20至25年更换一次燃料棒，几乎相当于漂浮在海上的城市，它由两个核反应炉驱动，承载逾5000名船员及机组人员，搭载85至90架飞机和直升飞机，其排水量达10万到10.4万吨。而这还不包括船上搭载的导弹。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SUPPLY_FLEET_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
-      <Text>在使用煤炭、燃油和柴油的时代，船舶在战时会耗费大量燃料和弹药。供应船——英国皇家海军称之为母舰——解决了战舰需要不断往返港口进行补给的问题。这些供应船在功效上相当于移动维修基地，能够补给和修理这些进行卑鄙勾当的船只。通常，这类供应船主要服务于某一特定类型的船只，比如英国在战争中使用的驱逐舰供应船。几乎所有拥有较大载重能力的船舶都可以被用作供应船…而人们也确实这样做了。实际上，二战期间，德国人就使用改良过的XIV级潜艇（绰号“奶牛”）为海上的U型潜水艇补给燃料、机油、鱼雷和食物。</Text>
+      <Text>在使用煤炭、燃油和柴油的时代，船舶在战时会耗费大量燃料和弹药。供应船——英国皇家海军称之为母舰——解决了战舰需要不断往返港口进行补给的问题。这些供应船在功效上相当于移动维修基地，能够补给和修理这些进行卑鄙勾当的船只。通常，这类供应船主要服务于某一特定类型的船只，比如英国在战争中使用的驱逐舰供应船。几乎所有拥有较大载重能力的船舶都可以被用作供应船…而人们也确实这样做了。实际上，二战期间，德国人就使用改良过的XIV级潜艇（绰号“奶牛”）为海上的U艇补给燃料、机油、鱼雷和食物。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SUPPRESSION_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
       <Text>根据北约规定，压制是指“发射炮弹，直接或间接摧毁、抑制或阻止敌方行动的行为。”在北约对其进行如此完整的定义之前，皇家军队将压制定义为“发射炮弹让目标行动暂时无效。”换句话说，向别人开炮，以此降低他们的速度…在北约规定出现之前，很早就有军事指挥官有了这样的精妙见解。但是压制炮火需要快速发射大量炮弹，因此起初使用较少，直到工业时代战争开始后，压制才成为一种常见策略。</Text>
@@ -9776,7 +9776,7 @@
       <Text>1864年奥匈帝国开发了第一个自行鱼雷原型，其后续生产由英国工程师罗伯特·怀特海德组织进行，海战自此再次得到进化。德国人对鱼雷技术有浓厚兴趣，加之盟军的护航编队给U型潜艇制造了更大麻烦，于是德国科学家设计了可编程预置航迹鱼雷。鱼雷将遵循一个预设模式航行，直到它们耗尽燃料或击中目标，以此对盟军的护航编队构成完美反击。接下来出现的是“自导”鱼雷，利用声学捕捉航迹声音，并跟踪它找到敌方船只。这两个“发射后自寻的”武器系统使盟军护航编队在接下来的战争中遭受了重大损失。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WOLFPACK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
-      <Text>海军上将卡尔·邓尼茨创造了狼群战术（或“集结战术”）一词来形容他在大西洋的U型潜水艇战术；同盟国用“群狼战术”形容集结潜水艇袭击护航队的大规模攻击——并不十分准确，但更多的是作为一种比喻。随着战争进行，这些U型潜水艇不再通过游荡来寻找目标和发射鱼雷，而是改为沿着坐标线在护航路线上一字排开。当某U型潜艇的船长发现护航队时，他会发信号示意“狼群”中的其他潜艇集结起来，对商船发动一系列攻击，同时绕过它们的护航舰。在探测设备和反潜武器于1944年底在大西洋战役中获胜之前，这种战术非常有效。</Text>
+      <Text>海军上将卡尔·邓尼茨创造了狼群战术（或“集结战术”）一词来形容他在大西洋的U艇战术；同盟国用“群狼战术”形容集结潜水艇袭击护航队的大规模攻击——并不十分准确，但更多的是作为一种比喻。随着战争进行，这些U艇不再通过游荡来寻找目标和发射鱼雷，而是改为沿着坐标线在护航路线上一字排开。当某U型潜艇的船长发现护航队时，他会发信号示意“狼群”中的其他潜艇集结起来，对商船发动一系列攻击，同时绕过它们的护航舰。在探测设备和反潜武器于1944年底在大西洋战役中获胜之前，这种战术非常有效。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_ZWEIHANDER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
       <Text>“双手剑”（又称“双撇子”）是一种16世纪常见的两手长剑，尤其得到德国和瑞士雇佣兵的青睐。结果，因为这种双手剑在对抗使用长矛、长枪的军队时杀伤力太大，而被瑞士法律禁止，但德国人却一直使用双手剑，直到步枪普及。这种剑较重、剑身长、双边刃，可以较为轻松地斩断长矛和长枪，也可以在剑士袭击范围外对其进行攻击…1495年的福尔诺沃战役就是这样。这种剑不算体面，但很有用。</Text>
@@ -10655,7 +10655,7 @@
       <Text>反复试验（很多水手被淹死）为帆、船桅、船体和传动装置带来了技术上的进步。阿拉伯、中国和印度商人沿着太平洋的边界航行，开通了贸易航线，建立了外交关系。但最终是欧洲人在世界范围内航行，从15世纪开始，欧洲水手航行到更远的地方且在海上呆的时间也更长，他们开始探索世界，以帆船舰队为基础，开创殖民帝国。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_SANITATION_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
-      <Text>干净的水供应和下水道设施对文明的崛起至关重要，因为没有这些东西，人们更容易受疾病和死亡困扰，特别是当大家在城市中心挤在一起时。在约公元前2500年印度河流域的哈拉帕定居点摩亨朱-达罗和拉基加里遗迹里发现了城市下水道的最早痕迹。在那里，成群的家庭从一口公共井里打水，并将污水（以及污水里的东西）倒进沿街的阴沟里。</Text>
+      <Text>干净的水供应和下水道设施对文明的崛起至关重要，因为没有这些东西，人们更容易受疾病和死亡困扰，特别是当大家在城市中心挤在一起时。在约公元前2500年印度河流域的哈拉帕定居点摩亨佐-达罗和拉基加里遗迹里发现了城市下水道的最早痕迹。在那里，成群的家庭从一口公共井里打水，并将污水（以及污水里的东西）倒进沿街的阴沟里。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_SANITATION_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
       <Text>罗马的城市和别墅有更好的水源和下水道系统，通过这些石头和木制的污水管，著名的马克西玛下水道注入台伯河，将文明居民的垃圾也带走了。直到中世纪晚期，欧洲其他国家才有合理使用下水道系统的迹象；因此发生了塞浦路斯瘟疫（可能是天花）、查士丁尼大瘟疫（腺鼠疫）、黑死病。由于费用原因，文艺复兴时期下水道才慢慢取代了欧洲的便桶式厕所、户外厕所和粪坑。（同时，人们相信玛雅古城帕伦克已经有了地下导水管和抽水马桶。）</Text>
@@ -11018,7 +11018,7 @@
       <Text>只需问问人口稠密之地任何一个做坏事的淘气鬼，你就能知道从高空对地面进行暴雨般的火力击毁有多爽了，尤其是，如果不会受到什么惩罚，那就更爽了。一战期间，有些人试图将各式空艇和齐柏林硬式飞艇作为远程轰炸机使用，但这些机器具有明显缺陷，尤其是当被子弹击中时，它们很容易发生爆炸。所以甚至在战前，一些飞机设计师就把注意力转到制造比空气重的飞机上面了，这些飞机能携带大量炸弹穿越敌人的防线直击他们的中心位置；意大利的卡普罗尼飞机和英国的布里斯托飞机是为轰炸目的而最先建造的两种飞机，它们在1913年首次登台亮相。一战结束时，用作战术（战场）和战略（市区）的轰炸机在前线随处可见。这些笨拙的双翼飞机在两次世界大战期间逐渐被能跨越海洋的远程单翼机取代，单翼机速度更快、全副武装且非常坚固。如今双方都能参与“恐怖轰炸”，把平民置于战争的中心，比如德国对伦敦的“大轰炸”，或美国对日本城市的大轰炸。当两架轰炸机的机组人员投掷原子弹时，所有一切达到顶峰。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BRAZILIAN_MINAS_GERAES_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
-      <Text>米纳斯吉拉斯级航母是将巴西发展成世界大国的第一步计划，其包括20世纪早期下水的两艘排水量达11800吨的战舰。尽管这两艘战舰没能如愿让巴西成为世界大国，但米纳斯吉拉斯号航母和圣保罗号航母确实开启了南美洲的海军军备竞赛，并在美国和英国引起轰动（这两个国家并不希望看到南美洲沿海出现非自己国家的战舰）。米纳斯吉拉斯级航母的设计方案历经两年完成，然而当1906年无畏战舰下水时，该设计方案因为过时而变成一堆废纸。最终，新设计的龙骨部分被确定下来，1908年9月米纳斯吉拉斯号下水，次年圣保罗号下水。在这两艘航母服役期间，没有特别事件发生——镇压过一次海军叛乱，以及几次其他叛乱。他们的结局有些丢人：米纳斯吉拉斯号在1950年被拆解，而圣保罗号在送去被拆解的途中沉海。</Text>
+      <Text>米纳斯吉拉斯级战列舰是将巴西发展成世界大国的第一步计划，其包括20世纪早期下水的两艘排水量达11800吨的战舰。尽管这两艘战舰没能如愿让巴西成为世界大国，但米纳斯吉拉斯号和圣保罗号战列舰确实开启了南美洲的海军军备竞赛，并在美国和英国引起轰动（这两个国家并不希望看到南美洲沿海出现非自己国家的战舰）。米纳斯吉拉斯级战列舰的设计方案历经两年完成，然而当1906年无畏战舰下水时，该设计方案因为过时而变成一堆废纸。最终，新设计的龙骨部分被确定下来，1908年9月米纳斯吉拉斯号下水，次年圣保罗号下水。在这两艘战列舰服役期间，没有特别事件发生——镇压过一次海军叛乱，以及几次其他叛乱。他们的结局有些丢人：米纳斯吉拉斯号在1950年被拆解，而圣保罗号在送去被拆解的途中沉海。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BUILDER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
       <Text>每个时代都有一些奠定了时代基础的人…农场、围墙、矿山、道路、桥梁、水道和其他所有一切组成了“文明”。不论是奴隶、雇佣劳动者、承包商、或那些实际为自己工作的人，这些“建造者”分散在荒野里开垦土地，让荒野变得富饶且能产生效益。他们在土地上持续劳作且不断进行修整。如果没有这些男男女女（至少直到20世纪早期，还有童工），文明将不复存在。虽然技术和机械提供了帮助，但建造和维护一个国家基础设施的工作依然费劲、并且肮脏而危险；2013年，美国建筑业意外死亡人数达到了828人，英国达到了46人。</Text>
@@ -11066,7 +11066,7 @@
       <Text>桨帆船是用于战争的第一种小船（如果体型较大，会被称为海船），它吃水浅、船体细长、甲板极小且靠划桨前进。虽然大多桨帆船有单桅帆来帮助前行，但主要还是靠汗流浃背的浆手划桨。这种船常停靠在海滨附近的浅水区，不是特别适合航海。但它们却是地中海区域早期腓尼基海军、希腊海军、迦太基海军和罗马海军的主要依靠。最初只是为不固定的混战运送弓箭手和长枪兵，后来把金属撞角、石弩和大炮都加入到了军备中，这使桨帆船甚至在中世纪早期都发挥了很大作用。但后来，更易于操作（且更大）的帆船战舰取代了桨帆船和它所有的衍生物如两排桨海船、 三列桨座战船、高速大帆船，等等。并且，军舰不需要一大群汗流浃背且怨声载道的桨手来划行。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GERMAN_UBOAT_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
-      <Text>一战和二战期间，德国U型潜水艇让其敌人又恐惧又愤怒。德国制造的第一艘潜艇是26英尺长的布兰德图切（“火焰驱动”的意思），在基尔海港第一次试潜时沉没了。德国随后制造的几艘潜水艇卖给了希腊人、奥斯曼人、俄罗斯人（这几艘潜艇都有不光彩的历史）。最终，德国人找对了方向；U-19潜艇——他们总算不再给每艘船起名字了——1912年首次下水，这艘潜艇配有二冲程柴油机、四个鱼雷发射管和两个甲板炮，能够下潜至水下164英尺。一战开始时，德国已经有28艘U型潜水艇投入使用；在战争爆发后的前10周，这些潜艇便击沉了5艘英国巡洋舰。效果如此惊人，以至于《凡尔赛和约》明文禁止德国建造潜水艇。但是，U型潜水艇舰队还是得到了重建，二战结束时，这些潜艇共击沉约2779艘（已证实）船只，载重共1410万吨——几乎是同盟国在战场上受到损失的70%。1955年，西德被允许重建海军…于是他们迅速开始建造潜水艇，最近的一个是U-35非核潜艇，于2015年3月正式服役。</Text>
+      <Text>一战和二战期间，德国U艇让其敌人又恐惧又愤怒。德国制造的第一艘潜艇是26英尺长的布兰德图切（“火焰驱动”的意思），在基尔海港第一次试潜时沉没了。德国随后制造的几艘潜水艇卖给了希腊人、奥斯曼人、俄罗斯人（这几艘潜艇都有不光彩的历史）。最终，德国人找对了方向；U-19潜艇——他们总算不再给每艘船起名字了——1912年首次下水，这艘潜艇配有二冲程柴油机、四个鱼雷发射管和两个甲板炮，能够下潜至水下164英尺。一战开始时，德国已经有28艘U艇投入使用；在战争爆发后的前10周，这些潜艇便击沉了5艘英国巡洋舰。效果如此惊人，以至于《凡尔赛和约》明文禁止德国建造潜水艇。但是，U艇舰队还是得到了重建，二战结束时，这些潜艇共击沉约2779艘（已证实）船只，载重共1410万吨——几乎是同盟国在战场上受到损失的70%。1955年，西德被允许重建海军…于是他们迅速开始建造潜水艇，最近的一个是U-35非核潜艇，于2015年3月正式服役。</Text>
     </Replace>
     <Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREAT_ADMIRAL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
       <Text>有人天生血管里就含有海水，所以终身都在海上生活。过去，这些人都是一些“伟大的”海军上将，他们带领人们进行探险航行、向其他战船发出警告、对那些无辜的商船实行恐怖统治。人们一旦发现可以横渡开放水域且不会(通常不会）被淹死，他们便将各种各样的船都开到了浅海和深海里。李舜臣、克利斯托弗·哥伦布、霍雷肖·纳尔逊、山本五十六、戴维·法拉格特等很多人都因航海而出名。世界变小了但文明扩展了，这在很大程度上要归功于他们的努力。但也许他们也别无选择。正如雅克·伊夫·库斯托（如果他愿意航海，他应该是一位了不起的海军上将）写道：“大海一旦施展法术，会让人永远沉浸在它的奇迹之中。”</Text>
@@ -13729,7 +13729,7 @@
       <Text>吉尔伽美什</Text>
     </Replace>
     <Replace Tag="LOC_LEADER_GORGO_NAME" Language="zh_Hans_CN">
-      <Text>戈尔戈</Text>
+      <Text>歌果</Text>
     </Replace>
     <Replace Tag="LOC_LEADER_HARDRADA_NAME" Language="zh_Hans_CN">
       <Text>哈拉尔德·哈德拉达</Text>
@@ -13747,7 +13747,7 @@
       <Text>伯里克利</Text>
     </Replace>
     <Replace Tag="LOC_LEADER_PETER_GREAT_NAME" Language="zh_Hans_CN">
-      <Text>彼得</Text>
+      <Text>彼得一世</Text>
     </Replace>
     <Replace Tag="LOC_LEADER_PHILIP_II_NAME" Language="zh_Hans_CN">
       <Text>菲利普二世</Text>
@@ -13813,7 +13813,7 @@
       <Text>里斯本宗主国加成</Text>
     </Replace>
     <Replace Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_NAME" Language="zh_Hans_CN">
-      <Text>摩亨朱-达罗宗主国加成</Text>
+      <Text>摩亨佐-达罗宗主国加成</Text>
     </Replace>
     <Replace Tag="LOC_LEADER_TRAIT_NAN_MADOL_NAME" Language="zh_Hans_CN">
       <Text>南马都尔宗主国加成</Text>
@@ -19087,7 +19087,7 @@
       <Text>特诺奇蒂特兰</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_CIVILIZATION_BUILDING_TLACHTLI_NAME" Language="zh_Hans_CN">
-      <Text>阿兹特克特色建筑：蹴球场</Text>
+      <Text>阿兹特克特色建筑：人祭球场</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_AZTEC_EAGLE_WARRIOR_NAME" Language="zh_Hans_CN">
       <Text>阿兹特克特色单位：雄鹰战士</Text>
@@ -19342,7 +19342,7 @@
       <Text>该城市所有雨林单元格的 [ICON_Culture] 文化值+2。该城市所有雨林单元格的 [ICON_Production] 生产力+1。必须建在雨林。</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION" Language="zh_Hans_CN">
-      <Text>罗马斗兽场的 [ICON_Culture] 文化值和 [ICON_Amenities] 宜居度延伸至6个单元格以内的所有市中心。必须建在靠近娱乐中心的平原上。</Text>
+      <Text>大竞技场的 [ICON_Culture] 文化值和 [ICON_Amenities] 宜居度延伸至6个单元格以内的所有市中心。必须建在靠近娱乐中心的平原上。</Text>
     </Replace>
     <Replace Tag="LOC_BUILDING_COLOSSUS_DESCRIPTION" Language="zh_Hans_CN">
       <Text>+1 [ICON_TradeRoute] 贸易路线容量。授予1个商人单位。必须建在邻近陆地和港口的海岸上。</Text>
@@ -19519,7 +19519,7 @@
       <Text>发现1个新大陆。</Text>
     </Replace>
     <Replace Tag="LOC_BOOST_TRIGGER_MILITARY_TRADITION" Language="zh_Hans_CN">
-      <Text>清除蛮族哨站。</Text>
+      <Text>清除蛮族营地。</Text>
     </Replace>
     <Replace Tag="LOC_BOOST_TRIGGER_STATE_WORKFORCE" Language="zh_Hans_CN">
       <Text>建造任意特色区域。</Text>
@@ -19663,7 +19663,7 @@
       <Text>我们发现了一个新大陆，这个广阔的世界有很多的贸易机会。</Text>
     </Replace>
     <Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRADITION" Language="zh_Hans_CN">
-      <Text>您的士兵希望您对蛮族哨站所取得的胜利是一长串军事胜利的开始。</Text>
+      <Text>您的士兵希望您对蛮族营地取得的胜利是一长串军事胜利的开始。</Text>
     </Replace>
     <Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_STATE_WORKFORCE" Language="zh_Hans_CN">
       <Text>首个区域的建立，证明了国家项目征召工人的价值。</Text>
@@ -20281,7 +20281,7 @@
       <Text>史诗任务</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION" Language="zh_Hans_CN">
-      <Text>当您占领一个蛮族哨站时，您会获得部落村庄奖励，以及 [ICON_Gold] 金币。征用城邦单位费用降低一半。</Text>
+      <Text>当您占领一个蛮族营地时，您会获得部落村庄奖励，以及 [ICON_Gold] 金币。征用城邦单位费用降低一半。</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_CIVILIZATION_ITERU_NAME" Language="zh_Hans_CN">
       <Text>古尼罗河</Text>
@@ -20605,7 +20605,7 @@
       <Text>法国特色改良设施：法式城堡</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_HANSA_NAME" Language="zh_Hans_CN">
-      <Text>德国特色区域：商业同业工会</Text>
+      <Text>德国特色区域：汉莎商行</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ACROPOLIS_NAME" Language="zh_Hans_CN">
       <Text>希腊特色区域：卫城</Text>
@@ -20638,7 +20638,7 @@
       <Text>刚果特色单位：奥姆本巴</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_LAVRA_NAME" Language="zh_Hans_CN">
-      <Text>俄罗斯特色区域：修道院</Text>
+      <Text>俄罗斯特色区域：修道共同体</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KURGAN_NAME" Language="zh_Hans_CN">
       <Text>斯基泰特色改良设施：坟墩</Text>
@@ -20680,7 +20680,7 @@
       <Text>美国特色单位：P-51战斗机</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_BRAZILIAN_MINAS_GERAES_NAME" Language="zh_Hans_CN">
-      <Text>巴西特色单位：米纳斯吉拉斯</Text>
+      <Text>巴西特色单位：米州级战列舰</Text>
     </Replace>
     <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_NORWEGIAN_BERSERKER_NAME" Language="zh_Hans_CN">
       <Text>挪威特色单位：狂暴武士</Text>
@@ -21223,13 +21223,13 @@
       <Text>彼得对你的科技和文化很满意</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_OR_ON_IT" Language="zh_Hans_CN">
-      <Text>戈尔戈想看到您战斗，或知道您为和平付出的代价。</Text>
+      <Text>歌果想看到您战斗，或知道您为和平付出的代价。</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_NEVER_WARRED" Language="zh_Hans_CN">
-      <Text>戈尔戈想看到您战斗</Text>
+      <Text>歌果想看到您战斗</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_PAID_FOR_PEACE" Language="zh_Hans_CN">
-      <Text>戈尔戈知道您为和平付出了代价</Text>
+      <Text>歌果知道您为和平付出了代价</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_MODIFIER_WONDER_OBSESSED_LAGGING" Language="zh_Hans_CN">
       <Text>秦始皇很高兴您的奇观很少</Text>
@@ -22882,7 +22882,7 @@
       <Text>我是苏美尔的吉尔伽美什，也是乌鲁克的国王。别害怕…我对朋友很好。</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_GORGO_ANY" Language="zh_Hans_CN">
-      <Text>我是斯巴达女王戈尔戈，也是希腊人的领袖。您是谁？您取得了哪些胜利？</Text>
+      <Text>我是斯巴达女王歌果，也是希腊人的领袖。您是谁？您取得了哪些胜利？</Text>
     </Replace>
     <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_HARDRADA_ANY" Language="zh_Hans_CN">
       <Text>站在您面前的是哈拉尔德·西居尔松：一个您从未在其它海洋和陆地上见过的海盗。哈哈，害怕了吧？</Text>
@@ -24301,7 +24301,7 @@
       <Text>相邻: 如果毗邻商业中心区，会有大额 [ICON_Production] 生产力加成。每个相邻资源有标准 [ICON_Production] 生产力加成。每个相邻区域单元格有小额 [ICON_Production] 生产力加成。</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_LAVRA_DESCRIPTION" Language="zh_Hans_CN">
-      <Text>您城市里的俄罗斯特色宗教活动区域。代替圣地区域。[NEWLINE][NEWLINE]修道院所在的城市每消耗一位伟人，则城市边境扩展一单元格。</Text>
+      <Text>您城市里的俄罗斯特色宗教活动区域。代替圣地区域。[NEWLINE][NEWLINE]修道共同体所在的城市每消耗一位伟人，则城市边境扩展一单元格。</Text>
     </Replace>
     <Replace Tag="LOC_DISTRICT_MBANZA_DESCRIPTION" Language="zh_Hans_CN">
       <Text>只能建在雨林或树林里的刚果特色区域。代替社区区域，早期即可用。不受魅力值影响，都可以提供+5 [ICON_Housing] 住房、+2 [ICON_Food] 食物和+4 [ICON_Gold] 金币。</Text>
@@ -26086,7 +26086,7 @@
       <Text>您的责任重大，吉尔伽美什国王。您的国民和世界上很多其他人，都把您看作领导者。您不仅是一个凡人，这个沉重的世界不会让您犹豫不决。鼓励苏美尔人民沿河定居在肥沃土地上，谨慎挑选盟友——因为很多人都想获得您的力量。开始冒险吧，是时候谱写您的壮丽篇章了。</Text>
     </Replace>
     <Replace Tag="LOC_LOADING_INFO_LEADER_GORGO" Language="zh_Hans_CN">
-      <Text>斯巴达女王戈尔戈；您和您忠诚的装甲步兵获得了无上荣耀！希腊很珍惜来自战神阿瑞斯的祝福。您的人民对您周到谨慎的统治和造就的文化奇迹称赞不已。为希腊遗产和您的成就感到骄傲，这些故事将会一代代流传下去。</Text>
+      <Text>斯巴达女王歌果；您和您忠诚的装甲步兵获得了无上荣耀！希腊很珍惜来自战神阿瑞斯的祝福。您的人民对您周到谨慎的统治和造就的文化奇迹称赞不已。为希腊遗产和您的成就感到骄傲，这些故事将会一代代流传下去。</Text>
     </Replace>
     <Replace Tag="LOC_LOADING_INFO_LEADER_HARDRADA" Language="zh_Hans_CN">
       <Text>挪威国王哈拉尔德如同来自北方的闪电一般，所有人都惧怕您的船只靠近。您的大战船主宰了整个海域，时刻准备着带领狂暴战士进攻无人警惕的海岸。愿欧丁神保佑您的王国，愿吟唱诗人为您强大勇士取得的胜利而歌唱。</Text>
@@ -26800,7 +26800,7 @@
       <Text>赠予军事海军单位1次强化等级和+50%战斗经验值。</Text>
     </Replace>
     <Replace Tag="LOC_GREATPERSON_FRANZ_VON_HIPPER_ACTIVE" Language="zh_Hans_CN">
-      <Text>立即建造1个带有1次强化等级的战舰单位。</Text>
+      <Text>立即建造1个带有1次强化等级的战列舰单位。</Text>
     </Replace>
     <Replace Tag="LOC_GREATPERSON_JOAQUIM_MARQUES_LISBOA_ACTIVE" Language="zh_Hans_CN">
       <Text>累积厌战情绪比平时减少25%。</Text>
@@ -31111,10 +31111,10 @@
       <Text>只要条件允许就尽量建造奇观，喜欢不与其争夺奇观的文明。讨厌将奇观夺走的文明。</Text>
     </Replace>
     <Replace Tag="LOC_AGENDA_BARBARIAN_LOVER_DESCRIPTION" Language="zh_Hans_CN">
-      <Text>同情蛮族。讨厌摧毁蛮族哨站所的文明。</Text>
+      <Text>同情蛮族。讨厌摧毁蛮族营地的文明。</Text>
     </Replace>
     <Replace Tag="LOC_AGENDA_CIVILIZED_DESCRIPTION" Language="zh_Hans_CN">
-      <Text>讨厌蛮族。喜欢清除蛮族哨站所的文明。讨厌对蛮族哨站所视而不见的文明。</Text>
+      <Text>讨厌蛮族。喜欢清除蛮族营地的文明。讨厌对蛮族营地视而不见的文明。</Text>
     </Replace>
     <Replace Tag="LOC_AGENDA_CULTURED_DESCRIPTION" Language="zh_Hans_CN">
       <Text>设法获得 [ICON_Culture] 文化值，喜欢专注于 [ICON_Culture] 文化值的文明。</Text>
@@ -32548,7 +32548,7 @@
       <Text>与该城邦建立一条 [ICON_TradeRoute] 贸易路线</Text>
     </Replace>
     <Replace Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_DESCRIPTION" Language="zh_Hans_CN">
-      <Text>在城市5个单元格以内摧毁一个 [ICON_Barbarian] 蛮族哨站。</Text>
+      <Text>在城市5个单元格以内摧毁一个 [ICON_Barbarian] 蛮族营地。</Text>
     </Replace>
     <Replace Tag="LOC_QUEST_TRAIN_UNIT_TYPE_DESCRIPTION" Language="zh_Hans_CN">
       <Text>训练一个随机选择的 [ICON_Unit] 军事单位类型。</Text>
@@ -33613,7 +33613,7 @@
       <Text>在圣地区域的8个单元格以内，每击杀一个敌人则可获得等同其攻击力50%的 [ICON_Faith] 信仰值加成。</Text>
     </Replace>
     <Replace Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION" Language="zh_Hans_CN">
-      <Text>清除每个蛮族哨站的 [ICON_Faith] 信仰值+50。</Text>
+      <Text>清除每个蛮族营地的 [ICON_Faith] 信仰值+50。</Text>
     </Replace>
     <Replace Tag="LOC_BELIEF_FERTILITY_RITES_DESCRIPTION" Language="zh_Hans_CN">
       <Text>城市发展速度提高10%。</Text>
@@ -34543,7 +34543,7 @@
       <Text>建立 [ICON_TradeRoute] 贸易路线</Text>
     </Replace>
     <Replace Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_NAME" Language="zh_Hans_CN">
-      <Text>摧毁5个单元格以内的蛮族哨站</Text>
+      <Text>摧毁5个单元格以内的蛮族营地</Text>
     </Replace>
     <Replace Tag="LOC_QUEST_TRAIN_UNIT_TYPE_NAME" Language="zh_Hans_CN">
       <Text>训练单位</Text>
@@ -36772,7 +36772,7 @@
       <Text>取代战斗机的美国特色现代空中单位。对阵战斗机时，+5攻击力，+2飞行范围，并获得+50%经验值。</Text>
     </Replace>
     <Replace Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION" Language="zh_Hans_CN">
-      <Text>取代战舰的巴西特色单位。比战舰更强。通过民族主义解锁。</Text>
+      <Text>取代战列舰的巴西特色单位。比战列舰更强。通过民族主义解锁。</Text>
     </Replace>
     <Replace Tag="LOC_ABILITY_ANTI_CAVALRY_NAME" Language="zh_Hans_CN">
       <Text>抗骑兵</Text>
@@ -41431,7 +41431,7 @@
       <Text>破城槌</Text>
     </Replace>
     <Replace Tag="LOC_UNIT_BATTLESHIP_NAME" Language="zh_Hans_CN">
-      <Text>战舰</Text>
+      <Text>战列舰</Text>
     </Replace>
     <Replace Tag="LOC_UNIT_BUILDER_NAME" Language="zh_Hans_CN">
       <Text>建造者</Text>
@@ -41668,13 +41668,13 @@
       <Text>帝国卫队</Text>
     </Replace>
     <Replace Tag="LOC_UNIT_GERMAN_UBOAT_NAME" Language="zh_Hans_CN">
-      <Text>U型潜水艇</Text>
+      <Text>U艇</Text>
     </Replace>
     <Replace Tag="LOC_UNIT_AMERICAN_P51_NAME" Language="zh_Hans_CN">
       <Text>P-51战斗机</Text>
     </Replace>
     <Replace Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_NAME" Language="zh_Hans_CN">
-      <Text>米纳斯吉拉斯</Text>
+      <Text>米州级战列舰</Text>
     </Replace>
     <Replace Tag="LOC_UNITNAME_BASE_TEMPLATE" Language="zh_Hans_CN">
       <Text>{1_Prefix} {2_Suffix}</Text>
